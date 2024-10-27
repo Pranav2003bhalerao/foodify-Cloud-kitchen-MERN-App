@@ -1,0 +1,40 @@
+# Node.js / Express specific
+node_modules/
+.env*
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files and caches
+/tmp/
+.cache/
+
+# Build and dist folders
+dist/
+build/
+public/
+
+# React specific
+frontend/node_modules/
+frontend/build/
+
+# Ignore all environment files (for backend and frontend)
+.env*
+frontend/.env*
+
+# Editor and OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Prevent tracking secrets in production
+config/*.key
+
+# Optional: Ignore SQLite or other local DB files
+*.sqlite3
+*.sqlite3-journal
