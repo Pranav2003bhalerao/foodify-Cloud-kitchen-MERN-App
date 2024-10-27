@@ -1,6 +1,4 @@
-Certainly! Here’s the README in proper Markdown format for your **Foodify - Food Ordering Website** project:
 
----
 
 # Foodify - A Food Ordering Website
 
