@@ -27,7 +27,7 @@ Foodify is a full-featured food ordering website developed using the MERN stack,
 
 ## Tech Stack
 
-- **Frontend**: React, Vite, Tailwind CSS
+- **Frontend**: React, Vite,  CSS
 - **Backend**: Node.js, Express.js, MongoDB
 - **Admin**: React, Vite
 - **Payment**: Stripe API for secure transactions
